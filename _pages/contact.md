@@ -1,10 +1,8 @@
 ---
-layout: page
-title: "Contact"
+layout: single
+title: " 📬 Contact"
 permalink: /contact/
 ---
-
-# 📬 Contact
 
 - 📧 [salem.eid@gmail.com](mailto:salem.eid@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/salem-eid)  

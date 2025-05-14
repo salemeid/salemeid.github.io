@@ -87,6 +87,7 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
+google_analytics: UA-XXXXXXXXX-X
 
 # Social Sharing
 twitter: 
@@ -114,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Salem Abdulwahid Eid"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/SalemEid.png"
   bio              : "Strategic data-driven leader focused on transformation and financial impact."
   location         : "Jeddah, Saudi Arabia"
   email            : "salem.eid@gmail.com"
